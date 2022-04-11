@@ -1,0 +1,2 @@
+# Heliostat
+This heliostat is created in ENSIL-ENSCI engineering school by me and a colleague. The main purpose was to create an heliostat in a defined frame of 120mm of diameter and 150 of lenght. By using several 3D printer like the most famous one FDM and 3D printer for ceramics (for the mirror). After that, we implemented a control loop using arduino to follow the sun or a light with only 3 LDR sensors and resistors. The actuators was one stepper motor and one servo motor. 
